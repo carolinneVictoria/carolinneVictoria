@@ -2,6 +2,9 @@
 
 - 🌱 Análise e Desenvolvimento de Sistemas.
 - 😄 Pronouns: ela/dela
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinneVictoria&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
 <p>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
