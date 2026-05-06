@@ -17,7 +17,6 @@
         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       </p>
     </td>
-
     <td>
       <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?  username=carolinneVictoria&layout=compact&langs_count=7&theme=tokyonight"/>
     </td>
