@@ -35,7 +35,7 @@ Gosto de transformar ideias em interfaces bonitas, responsivas e funcionais. Atu
 
 ## 📫 Contato
 
-💼 LinkedIn: [www.linkedin.com/in/carolinne-victoria-santos-oliveira](http://www.linkedin.com/in/carolinne-victoria-santos-oliveira)
+💼 LinkedIn: [www.linkedin.com/in/carolinne-victória-5b79a3236]([http://www.linkedin.com/in/carolinne-victoria-santos-oliveira](https://www.linkedin.com/in/carolinne-victória-5b79a3236/))
 
 📧 E-mail: [carolinevictoria1224@gmail.com](mailto:carolinevictoria1224@gmail.com)
 
