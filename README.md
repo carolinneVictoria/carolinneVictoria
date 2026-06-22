@@ -25,11 +25,10 @@ Gosto de transformar ideias em interfaces bonitas, responsivas e funcionais. Atu
 ## 📈 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolinneVictoria\&show_icons=true\&theme=rose_pine\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinneVictoria\&layout=compact\&theme=rose_pine\&hide_border=true)
-
+  <a href="https://github.com/carolinneVictoria">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinneVictoria&show_icons=true&theme=rose_pine&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinneVictoria&layout=compact&theme=rose_pine&hide_border=true"/>
+  </a>
 </div>
 
 ---
