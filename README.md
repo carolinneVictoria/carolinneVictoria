@@ -1,25 +1,43 @@
-## Olá! Eu sou a Carolinne Victória! 👋
+# 🌷 Olá, eu sou a Carolinne Victória!
 
-- 🌱 Análise e Desenvolvimento de Sistemas.
-- 😄 Pronomes: ela/dela
+💻 Desenvolvedora Full-Stack
+🎓 Formada em Análise e Desenvolvimento de Sistemas
+📍 Paraná, Brasil
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-<p></p>
-<div>   
-  <a href="https://www.instagram.com/_aesthetic.ghoost" target="_blank">     
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">   
-  </a>   
-  <a href="https://mailto:carolinevictoria1224@gmail.com">     
-      <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">   
-  </a>   
-  <a href="https://www.linkedin.com/in/carolinne-victória-5b79a3236" target="_blank">     
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">   
-  </a> 
+Gosto de transformar ideias em interfaces bonitas, responsivas e funcionais. Atualmente estou focada no desenvolvimento web com React e TypeScript, enquanto continuo explorando Python, bancos de dados e novas tecnologias.
+
+---
+
+## 🚀 Tecnologias
+
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=rose_pine\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=rose_pine\&hide_border=true)
+
 </div>
 
+---
+
+## 📫 Contato
+
+💼 LinkedIn: [www.linkedin.com/in/carolinne-victoria-santos-oliveira](http://www.linkedin.com/in/carolinne-victoria-santos-oliveira)
+
+📧 E-mail: [carolinevictoria1224@gmail.com](mailto:carolinevictoria1224@gmail.com)
+
+---
