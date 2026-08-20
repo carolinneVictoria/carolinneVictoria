@@ -33,7 +33,7 @@ Gosto de transformar ideias em interfaces bonitas, responsivas e funcionais. Atu
     <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://carolinnevictoria.github.io/Portfolio/">
+  <a href="[https://carolinnevictoria.github.io/Portfolio/](https://portfolio-six-sand-d32sjp199c.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfólio-Visitar-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
